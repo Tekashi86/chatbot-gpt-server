@@ -1,0 +1,59 @@
+{
+  "greeting": {
+    "trigger": [
+      "hi",
+      "hello",
+      "assalamualaikum",
+      "how are you"
+    ],
+    "soft": "Hi! I'm your personal advisor. Would you like to explore how others are earning daily passively?",
+    "aggressive": "Still scrolling? You\u2019re missing out while others are already cashing in. Don\u2019t waste time!"
+  },
+  "pitch": {
+    "trigger": [
+      "what is this",
+      "how does it work",
+      "tell me more"
+    ],
+    "soft": "Our project helps people earn extra profit daily, without quitting their current job. You control the pace.",
+    "aggressive": "Daily profit, real bank-in. You snooze, you lose. Start with even a small amount and watch it grow."
+  },
+  "proof": {
+    "trigger": [
+      "proof",
+      "show me",
+      "real?",
+      "is this legit"
+    ],
+    "soft": "Here\u2019s one of our members\u2019 payout from this morning. (attached screenshot)",
+    "aggressive": "See this? That\u2019s yesterday\u2019s proof of earnings. Not screenshots from Google \u2014 real withdrawals."
+  },
+  "objection_handling": {
+    "trigger": [
+      "scam",
+      "safe?",
+      "sure or not",
+      "i'm scared"
+    ],
+    "soft": "I understand your doubts. Most people start with a small amount first to test it out. We\u2019re here to support.",
+    "aggressive": "If it wasn\u2019t working, would we even show proof? Don\u2019t overthink. Just start small and see for yourself."
+  },
+  "call_to_action": {
+    "trigger": [
+      "yes",
+      "how to join",
+      "interested"
+    ],
+    "soft": "Ready to explore? Just type \u201cYes\u201d and I\u2019ll guide you step-by-step.",
+    "aggressive": "No more excuses. Join the group now or stay broke. [insert group link]"
+  },
+  "follow_up": {
+    "trigger": [
+      "",
+      "seen",
+      "no reply"
+    ],
+    "soft": "Hi again! Just checking in \u2014 I can answer anything you\u2019re unsure about.",
+    "aggressive": "This is your last reminder. Others already joined \u2014 are you still wasting time?"
+  }
+}
